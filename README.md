@@ -52,7 +52,7 @@ Live Demo: [ProjectX Hub](https://projectxhub.in)
 
 
 
-Live Demo: [ProjectX AI Studio](https://project-x-ai-studio-v2.vercel)
+Live Demo: [ProjectX AI Studio](https://project-x-hub.vercel.app/)
 
 3. ProjectX Hub — Join Platform
 
@@ -60,7 +60,7 @@ Live Demo: [ProjectX AI Studio](https://project-x-ai-studio-v2.vercel)
 
 
 
-Live Demo: [Join ProjectX Hub](https://join-project-x-hub.vercel.app/?utm_source=chatgpt.com)
+Live Demo: [Join ProjectX Hub](https://join-project-x-hub.vercel.app/)
 
 
 ## 📊 GitHub Activity
